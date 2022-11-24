@@ -11,7 +11,7 @@
 Configs Gerais 
 ----------------------------------------------------------*/
 body{
-	background:url(../img/background.jpg); 
+	background:url(../img/background4.jfif); 
 	color:#868686; 
 	font-family: "Open Sans", Helvetica, sans-serif, arial; 
 	font-size: 18px; /* 18px a· 16px = 1.125em */
@@ -141,7 +141,7 @@ nav{
 	}
 
 .meio{
-	background-color:#0ac3fe;
+	background-color:##363636;
 	height: 437px;
 	padding: 2.5%;
 	width: 95%;
@@ -158,22 +158,22 @@ nav{
 	margin-right: 2.631%;
 }
 .desktop{
-	background-color:#fe9481;
+	background-color:##4F4F4F;
 }
 .tablet{
-	background-color:#fcda92;
+	background-color:##4F4F4F;
 }
 
 .mobile{
-	background-color:#9c8cb9;
+	background-color:##4F4F4F;
 	margin-right:0px;
 }
 .meio .desktop figure, .meio .tablet figure, .meio .mobile figure{
 	margin: 15px auto 0px auto;
-	width: 69.444%;
+	width: 100%;
 }
 .meio h3{
-	color: #ffffff;
+	color: #FFFFFF;
 	font-size: 1.778em;
 	font-weight: 300;
 	letter-spacing: -0.0625em;
@@ -181,7 +181,7 @@ nav{
 	text-shadow:none;
 }
 .meio p {
-	background-color:#ffffff;
+	background-color:#000000;
 	float:left;
 	height:200px;
 	padding: 1.945%;
@@ -267,7 +267,7 @@ footer{
 		font-size: 1.111em;
 	}
 	.meio{
-		background-color:#228b22;
+		background-color:#4F4F4F;
 		height:400px;
 		padding: 3.90%;
 		width: 92.18%;
@@ -346,7 +346,7 @@ footer{
 		width: 100%;
 	}
 	nav li a:link{
-		color:#ffffff;
+		color:#1e1c22;
 		font-size: 1.388em;
 	}
 	nav li a.ativo:link, nav li a:hover, nav li a:visited{
@@ -370,7 +370,7 @@ footer{
 		font-size: 0.778em;
 	}
 	.meio{
-		background-color: #8a2be2;
+		background-color: #ffffff;
 		margin:0;
 		padding:0;
 		width: 100%;
@@ -388,6 +388,7 @@ footer{
 		width: 53.125%
 	}
 	.meio h3{
+		color: #4F4F4F;
 		float: left;
 		margin-top: 40px;
 		width: 46.875%
