@@ -11,6 +11,7 @@
 Configs Gerais 
 ----------------------------------------------------------*/
 body{
+	background-color: #000 !important;
 	background:url(../img/background.jpg); 
 	color:#868686; 
 	font-family: "Open Sans", Helvetica, sans-serif, arial; 
@@ -128,6 +129,9 @@ nav{
 	height:290px;
 	text-align:center;
 	width:100%; /*1200px a 1200px = 1 x 100 = 100%*/
+}
+.trem{
+	color: #ffffff !important; 
 }
 	h2 span{
 		font-size: 1em; /* 60px a 60px = 1em */
